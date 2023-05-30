@@ -1,6 +1,7 @@
 # Web Development 101  
 
-This repository narrates our experience of learning web development through weekly projects.  
+Through weekly projects, this repository showcases our experience on learning web development.  
+
 ## Motivation
 
 We hope to be "Job-ready" with our professional portfolios by end of September 2023!   
@@ -12,11 +13,6 @@ We hope to be "Job-ready" with our professional portfolios by end of September 2
 * Job applications
 * Resume Building 
 * Professional Portfolios 
-
-## More resources
-
-Point interested users to any related literature and/or documentation.
-
 
 ## About
 
